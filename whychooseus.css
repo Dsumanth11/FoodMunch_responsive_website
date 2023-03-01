@@ -1,0 +1,31 @@
+.whychooseus-main-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.whychooseus-paragraph {
+    color: #5a7184;
+    font-size: 16px;
+}
+
+.whychooseus-card {
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    padding: 10px;
+    margin-bottom: 30px;
+    /* height: 300px; */
+    /* width: 300px; */
+}
+
+.whychooseus-card-name {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.Offers {
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+}

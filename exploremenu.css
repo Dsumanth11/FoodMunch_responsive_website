@@ -1,0 +1,31 @@
+.Explore-menu {
+    background-color: white;
+}
+
+.heading-Explore-menu {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 700;
+    color: #183b56;
+}
+
+.Explore-Menu-Image {
+    /* width:100%; */
+    /*or u can use w-100 in class name which specifies bootstrap width*/
+    /* width:290px; */
+    /* height:300px; */
+    border-radius: 20px;
+}
+
+.Explore-Menu-card-Heading {
+    font-family: "Roboto";
+    text-align: left;
+    font-size: 19px;
+}
+
+.menu-item-link {
+    font-weight: 600;
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 15px;
+}
